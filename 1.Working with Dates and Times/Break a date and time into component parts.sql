@@ -28,4 +28,3 @@ SELECT
 	DATENAME(WEEK, @BerlinWallFalls) AS TheWeek,
 	DATENAME(SECOND, @BerlinWallFalls) AS TheSecond,
 	DATENAME(NANOSECOND, @BerlinWallFalls) AS TheNanosecond;
-  
